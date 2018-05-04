@@ -31,6 +31,8 @@
         <meta name="author" content="Adam Freeman"/>
         <meta name="description" content="A simple example"/>
         <meta charset="utf-8"/>
+        <meta http-equiv="refresh" content="5"/>
+        <meta http-equiv="content-type" content="text/html"/>
     </head>
     <body>
         <p>
