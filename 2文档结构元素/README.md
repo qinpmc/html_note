@@ -22,7 +22,7 @@
 
 ## 元数据元素 meta
 1. 示例
-`
+```
 <!DOCTYPE HTML>
 <html>
     <head>
@@ -40,4 +40,4 @@
         <a href="page2.html">Page 2</a>
     </body>
 </html>
-`
+```
