@@ -1,2 +1,2 @@
 # html_note
-This is a 
+This is a html study notes.
