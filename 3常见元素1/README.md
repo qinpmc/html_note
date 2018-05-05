@@ -5,6 +5,8 @@
 ```
  I like <a href="http://en.wikipedia.org/wiki/Apples">apples</a> and
         <a href="http://en.wikipedia.org/wiki/Orange_(fruit)">oranges</a>.
+        <!--禁止a标签默认跳转-->
+        <a href="javascript:;">a标签不跳转</a>
         You can see other fruits I like <a href="#fruits">here</a>.
 
         <p id="fruits">
@@ -18,5 +20,11 @@
 * i 表示与周围内容有本质区别，常用于外文词语、科技术语等,样式为斜体
 * s 表示某段文字不再正确，样式为删除线
 * b 并不表示特别的强调或重要性，通常会对内容加粗
-* strong 表示重要的内容，样式为加粗  
+* strong 表示重要的内容，样式为加粗
 * u 凸显内容，样式为下划线
+* small 小号字体内容
+* sub/sup 下标和上标
+* br 换行，自闭合的标签
+* wbr 单词换行，浏览器根据窗口大小自行调整
+* abbr 缩写
+* ins del 添加和删除内容
