@@ -1,2 +1,2 @@
-# html_notes
-This is a html study notes.
+# html_note
+This is a  html study note.
