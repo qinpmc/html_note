@@ -12,7 +12,6 @@
 * address 文档或article 元素的联系信息
 * details 可以展开了解更多详情，常和summary元素一起用，展开前只显示summary的内容
 
-
 ```
 
 
