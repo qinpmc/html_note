@@ -14,7 +14,79 @@
 * details 可以展开了解更多详情，常和summary元素一起用，展开前只显示summary的内容
 
 ```
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <!--解决html5不支持的问题-->
+    <!--[if lt IE 9]>
+        <script src="htmlt.min.js"></script>
+    <![endif]-->
+</head>
+<body>
+    <header>
+        <h1>XXX有限公司</h1>
+        <nav>
+            <a href=""></a><a href=""></a><a href=""></a><a href=""></a><a href=""></a><a href=""></a>
+            <span>热线电话</span>
+        </nav>
+        <div class="banner"></div>
+    </header>
+    <main>
+        <aside>
+            <section>
+                <h3>产品列表</h3>
+                <ul>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                </ul>
+            </section>
+            <section>
+                <h3>联系我们</h3>
+                <ul>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                </ul>
+            </section>
+        </aside>
+        <secction>
+            <h3>公司简介</h3>
+            <figure>
+                <img src="" alt="">
+                <!--<figcaption></figcaption>-->
+            </figure>
+            <p>XXX</p>
+        </secction>
+        <secction>
+            <h3>应用领域</h3>
+            <p>XXX</p>
+        </secction>
+        <secction>
+            <h3>产品展示</h3>
+            <ul>
+                <li><img src="" alt=""><span></span></li>
+                <li><img src="" alt=""><span></span></li>
+                <li><img src="" alt=""><span></span></li>
+            </ul>
+        </secction>
+    </main>
+    <footer>
+        <ul>
+            <li><a href=""></a></li>
+            <li><a href=""></a></li>
+            <li><a href=""></a></li>
+            <li><a href=""></a></li>
+            <li><a href=""></a></li>
+        </ul>
+    </footer>
+</body>
+</html>
 
 ```
 ## 效果图:
