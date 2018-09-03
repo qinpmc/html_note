@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fecb93f0-8d9a-4749-9439-3561671b9f2f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/7表单/2html.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/7表单/1form.html" afterPath="$PROJECT_DIR$/7表单/1form.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/7表单/README.md" afterPath="$PROJECT_DIR$/7表单/README.md" />
-    </list>
+    <list default="true" id="fecb93f0-8d9a-4749-9439-3561671b9f2f" name="Default" comment="" />
     <ignored path="html_note.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -36,7 +31,7 @@
       <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/5文档分节/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-62.857143">
+            <state vertical-scroll-proportion="0.0">
               <caret line="88" column="7" selection-start-line="88" selection-start-column="7" selection-end-line="88" selection-end-column="7" />
               <folding />
             </state>
@@ -46,7 +41,7 @@
       <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/4组织内容/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-36.42857">
+            <state vertical-scroll-proportion="0.0">
               <caret line="51" column="7" selection-start-line="51" selection-start-column="7" selection-end-line="51" selection-end-column="7" />
               <folding />
             </state>
@@ -66,7 +61,7 @@
       <file leaf-file-name="1form.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/7表单/1form.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.882353">
+            <state vertical-scroll-proportion="0.0">
               <caret line="8" column="48" selection-start-line="8" selection-start-column="48" selection-end-line="8" selection-end-column="48" />
               <folding />
             </state>
@@ -76,7 +71,7 @@
       <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/7表单/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-16.171429">
+            <state vertical-scroll-proportion="0.0">
               <caret line="41" column="77" selection-start-line="41" selection-start-column="77" selection-end-line="41" selection-end-column="77" />
               <folding />
             </state>
@@ -86,7 +81,7 @@
       <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/6表格/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.714286">
+            <state vertical-scroll-proportion="0.0">
               <caret line="38" column="22" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="22" />
               <folding />
             </state>
@@ -96,7 +91,7 @@
       <file leaf-file-name="2html.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/7表单/2html.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-6.617647">
+            <state vertical-scroll-proportion="0.0">
               <caret line="9" column="33" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="33" />
               <folding />
             </state>
@@ -106,7 +101,7 @@
       <file leaf-file-name="2文档分节.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/5文档分节/2文档分节.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0">
+            <state vertical-scroll-proportion="0.0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="72" selection-end-column="7" />
               <folding />
             </state>
@@ -168,8 +163,8 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="475" />
-    <option name="y" value="20" />
+    <option name="x" value="-70" />
+    <option name="y" value="45" />
     <option name="width" value="1936" />
     <option name="height" value="1087" />
   </component>
@@ -198,8 +193,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -276,6 +269,8 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -363,7 +358,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="475" y="20" width="1936" height="1087" extended-state="0" />
+    <frame x="-70" y="45" width="1936" height="1087" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -685,7 +680,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/7表单/1form.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.882353">
+        <state vertical-scroll-proportion="0.0">
           <caret line="8" column="48" selection-start-line="8" selection-start-column="48" selection-end-line="8" selection-end-column="48" />
           <folding />
         </state>
@@ -693,7 +688,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/7表单/2html.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.617647">
+        <state vertical-scroll-proportion="0.0">
           <caret line="9" column="33" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="33" />
           <folding />
         </state>
@@ -709,7 +704,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/7表单/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-16.171429">
+        <state vertical-scroll-proportion="0.0">
           <caret line="41" column="77" selection-start-line="41" selection-start-column="77" selection-end-line="41" selection-end-column="77" />
           <folding />
         </state>
@@ -717,7 +712,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/6表格/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.714286">
+        <state vertical-scroll-proportion="0.0">
           <caret line="38" column="22" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="22" />
           <folding />
         </state>
@@ -725,7 +720,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/5文档分节/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-62.857143">
+        <state vertical-scroll-proportion="0.0">
           <caret line="88" column="7" selection-start-line="88" selection-start-column="7" selection-end-line="88" selection-end-column="7" />
           <folding />
         </state>
@@ -733,7 +728,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/4组织内容/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-36.42857">
+        <state vertical-scroll-proportion="0.0">
           <caret line="51" column="7" selection-start-line="51" selection-start-column="7" selection-end-line="51" selection-end-column="7" />
           <folding />
         </state>
