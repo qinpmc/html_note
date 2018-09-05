@@ -2,15 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fecb93f0-8d9a-4749-9439-3561671b9f2f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/补充/README.md" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/5文档分节/1文档分节.html" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/7表单/formtag.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2文档结构元素/3meta元素.html" afterPath="$PROJECT_DIR$/2文档结构元素/3meta元素.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2文档结构元素/README.md" afterPath="$PROJECT_DIR$/2文档结构元素/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/3常见元素1/README.md" afterPath="$PROJECT_DIR$/3常见元素1/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/5文档分节/2文档分节.html" afterPath="$PROJECT_DIR$/5文档分节/2文档分节.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/7表单/2html.html" afterPath="$PROJECT_DIR$/7表单/2html.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/7表单/README.md" afterPath="$PROJECT_DIR$/7表单/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/9总结/1总结.html" afterPath="$PROJECT_DIR$/9总结/1总结.html" />
     </list>
     <ignored path="html_note.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -48,11 +43,11 @@
         </entry>
       </file>
       <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/4组织内容/README.md">
+        <entry file="file://$PROJECT_DIR$/7表单/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor vertical-scroll-proportion="0.0">
-                <caret line="12" column="35" selection-start-line="3" selection-start-column="2" selection-end-line="12" selection-end-column="35" />
+              <first_editor vertical-scroll-proportion="1.7760532">
+                <caret line="87" column="19" selection-start-line="87" selection-start-column="19" selection-end-line="87" selection-end-column="19" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -63,19 +58,30 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/7表单/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="FIRST">
-              <first_editor vertical-scroll-proportion="0.84903383">
-                <caret line="49" column="0" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
-                <folding />
-              </first_editor>
-              <second_editor />
+      <file leaf-file-name="formtag.png" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/7表单/formtag.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2html.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/7表单/2html.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="10.53125">
+              <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+              <folding />
             </state>
           </provider>
-          <provider editor-type-id="MarkdownFxPreviewEditor">
-            <state />
+        </entry>
+      </file>
+      <file leaf-file-name="1form.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/7表单/1form.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-6.25">
+              <caret line="8" column="48" selection-start-line="8" selection-start-column="48" selection-end-line="8" selection-end-column="48" />
+              <folding />
+            </state>
           </provider>
         </entry>
       </file>
@@ -98,7 +104,7 @@
       <file leaf-file-name="1html.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/8嵌入及其他/1html.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
+            <state vertical-scroll-proportion="-3.125">
               <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
               <folding />
             </state>
@@ -111,22 +117,6 @@
             <state split_layout="FIRST">
               <first_editor vertical-scroll-proportion="0.0">
                 <caret line="3" column="2" selection-start-line="3" selection-start-column="2" selection-end-line="10" selection-end-column="8" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-          <provider editor-type-id="MarkdownFxPreviewEditor">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/3常见元素1/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="FIRST">
-              <first_editor vertical-scroll-proportion="0.0">
-                <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="35" selection-end-column="9" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -160,16 +150,6 @@
           </provider>
           <provider editor-type-id="MarkdownFxPreviewEditor">
             <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="3meta元素.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2文档结构元素/3meta元素.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="5" column="30" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="30" />
-              <folding />
-            </state>
           </provider>
         </entry>
       </file>
@@ -210,7 +190,6 @@
         <option value="$PROJECT_DIR$/6表格/1表格.html" />
         <option value="$PROJECT_DIR$/5文档分节/README.md" />
         <option value="$PROJECT_DIR$/7表单/1form.html" />
-        <option value="$PROJECT_DIR$/7表单/2html.html" />
         <option value="$PROJECT_DIR$/1HTML/1闭合标签.html" />
         <option value="$PROJECT_DIR$/2文档结构元素/1文档结构.html" />
         <option value="$PROJECT_DIR$/3常见元素1/1a标签.html" />
@@ -220,6 +199,7 @@
         <option value="$PROJECT_DIR$/9总结/1总结.html" />
         <option value="$PROJECT_DIR$/5文档分节/2文档分节.html" />
         <option value="$PROJECT_DIR$/2文档结构元素/README.md" />
+        <option value="$PROJECT_DIR$/7表单/2html.html" />
         <option value="$PROJECT_DIR$/7表单/README.md" />
       </list>
     </option>
@@ -230,10 +210,10 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="737" />
-    <option name="y" value="50" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+    <option name="x" value="142" />
+    <option name="y" value="397" />
+    <option name="width" value="1565" />
+    <option name="height" value="679" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -434,15 +414,15 @@
     <property name="js-jscs-nodeInterpreter" value="H:\nodejs\node.exe" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\pony\Documents\GitHub\html_note" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\qinpmc\note\html5\html_note\7表单" />
       <recent name="E:\qinpmc\note\html5\html_note\补充" />
       <recent name="C:\Users\pony\Documents\GitHub\html_note\8嵌入及其他" />
       <recent name="C:\Users\pony\Documents\GitHub\html_note\7表单" />
       <recent name="C:\Users\pony\Documents\GitHub\html_note\9总结" />
-      <recent name="C:\Users\pony\Documents\GitHub\html_note\5文档分节" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\pony\Documents\GitHub\html_note" />
     </key>
   </component>
   <component name="RunManager">
@@ -509,10 +489,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="737" y="50" width="1936" height="1056" extended-state="0" />
+    <frame x="142" y="397" width="1565" height="679" extended-state="1" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30987734" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -546,13 +526,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/1HTML/2全局属性.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="4" column="41" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/1HTML/entity.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -696,20 +669,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-8.823529">
           <caret line="18" column="6" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/7表单/1form.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="8" column="48" selection-start-line="8" selection-start-column="48" selection-end-line="8" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/7表单/2html.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="9" column="33" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="33" />
         </state>
       </provider>
     </entry>
@@ -958,14 +917,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/8嵌入及其他/1html.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/8嵌入及其他/README.md">
       <provider editor-type-id="text-editor">
         <state vertical-scroll-proportion="-13.571428">
@@ -985,6 +936,22 @@
         <state />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/7表单/1form.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.25">
+          <caret line="8" column="48" selection-start-line="8" selection-start-column="48" selection-end-line="8" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8嵌入及其他/1html.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.125">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/7表单/README.md">
       <provider editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -994,14 +961,27 @@
       </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
-          <first_editor vertical-scroll-proportion="0.84903383">
-            <caret line="49" column="0" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+          <first_editor vertical-scroll-proportion="1.7760532">
+            <caret line="87" column="19" selection-start-line="87" selection-start-column="19" selection-end-line="87" selection-end-column="19" />
             <folding />
           </first_editor>
           <second_editor />
         </state>
       </provider>
       <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7表单/2html.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="10.53125">
+          <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7表单/formtag.png">
+      <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
