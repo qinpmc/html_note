@@ -15,6 +15,13 @@
         如果找不到指定id元素，浏览器会查找name属性与之匹配的元素(a标签才行)
         You can see other fruits I like <a name="fruits">here</a>.
 ```
+a标签链接的功能
+电话链接 <a href ="tel:+8613812381238">+8613812381238</a>
+Email链接： <a href ="mailto:xidada@china.gov.cn?cc=pengliyuan@china.gov.cn">发送并抄送邮件</a>
+下载链接：<a href = "https://angular.io/resource/images/logos/angular/angular.svg" download> 下载</a>
+返回顶部链接<a href="#"> 返回顶部链接</a>
+文档内部链接： 如上例
+
 ## 文字标记标签
 * em 强调内容，通常斜体
 * i 表示与周围内容有本质区别，常用于外文词语、科技术语等,样式为斜体

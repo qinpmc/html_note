@@ -35,3 +35,50 @@
 </body>
 </html>
 ```
+
+
+文档编码
+
+```
+<meta charset="utf-8"/>
+```
+
+
+页面小图标
+
+```
+<head>
+    <meta charset="UTF-8">
+    <!--页面小图标-->
+    <link rel="icon" href="./mooc_icon.png">
+    <title>Title</title>
+</head>
+```
+
+设置referer
+如请求其他服务器（百度）上的图片
+
+```
+<meta name="referer" content ="never" >
+```
+
+页面描述
+
+```
+<meta name="description" content="A simple example"/>
+```
+
+适配移动端页面
+
+```
+<meta name="viewport" content="width=device-width,initial-sacle=1.0"/>
+```
+
+##meta 常见值：
+1、name属性：可取的值为 keywords(关键字)；  description(网站内容的描述)； viewport(移动端的窗口)；author(作者) 等等；
+2、http-equiv属性 ：可取的值包括  content-Type(设定网页字符集) ；cache-control(指定请求和响应遵循的缓存机制)；. expires(网页到期时间)； refresh(自动刷新并指向某页面)
+
+## 乱码问题
+- 英文和数字不会出现乱码，中文可能会出现
+- 给 HTML 的 head 标签里加 <meta charset="utf-8"> 不一定能解决乱码问题
+- 页面保存的时候用的是什么编码格式，就给 HTML 的 head 标签里meta 的 charset 属性设置相同编码格式
