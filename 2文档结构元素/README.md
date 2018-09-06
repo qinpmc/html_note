@@ -1,6 +1,7 @@
 ## 文档结构
 
 * DOCTYPE ：
+告诉浏览器的文档解释器，用什么方式解释文档，包括
 1. 告诉浏览器要处理的是html文档；
 2. 标记文档内容的版本
 3. 浏览器根据DOCTYPE决定使用哪种渲染模式
@@ -73,6 +74,13 @@
 ```
 <meta name="viewport" content="width=device-width,initial-sacle=1.0"/>
 ```
+
+定制页面图标
+
+```
+<link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+```
+
 
 ##meta 常见值：
 1、name属性：可取的值为 keywords(关键字)；  description(网站内容的描述)； viewport(移动端的窗口)；author(作者) 等等；
