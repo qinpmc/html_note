@@ -2,7 +2,7 @@
 
 ## html元素分类
 ### 行内元素
-    a 、button、small、datalist、em、i、input、mark、span、select、option、s、strong、b、sup、sub、textarea、u、label
+   span、a 、input、button、select、textarea、label、small、strong、em、i、mark、s、b、sup、sub、u、script
    1. 不独占一行
    2. 排列方式：从左到右
    3. 设置宽高不起作用，如果要起作用，可将其转换为 块/行内块，display:block/display:inline-block
@@ -12,7 +12,11 @@
 
 
 ### 块元素
-    table、form、dl、dt、dd、figure、figcaption、div、h1-h6、hr、ul、ol、li、nav、p、menu
+    div、p、h1-h6、ul、ol、li、dl、dt、dd、table、hr、form、figure、figcaption、
+    article、aside、nav、menu、canvas、header、main、section、footer
+    
+    
+    
    1. 独占一行
    2. 排列方式：从上到下
    3. 可以设置宽高以及盒模型的其他属性
@@ -22,7 +26,7 @@
 
 
 ### 行内块元素
-    img input
+    img 
     1. 自带display:inline-block
 
 ### 标签语义化

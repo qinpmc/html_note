@@ -11,6 +11,15 @@
 * textarea
 * select ,与option一起使用，也可联合optgroup 使用
 
+```
+  <fieldset>
+    <legend>健康信息</legend>
+    身高：<input type="text" />
+    体重：<input type="text" />
+  </fieldset>
+```
+
+
 ### input元素的类型
 * text
 * password
