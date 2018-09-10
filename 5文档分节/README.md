@@ -36,7 +36,7 @@
     <main>
         <aside>
             <section>
-                <h3>产品列表</h3>
+                <h3>产品分类</h3>
                 <ul>
                     <li></li>
                     <li></li>

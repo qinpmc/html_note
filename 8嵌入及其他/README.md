@@ -10,11 +10,4 @@
 * meter 规定范围内的数量值
 * audio 音频
 * video 视频
-
-
-```
-
-
-```
-## 效果图:
-![embed](./embed.jpg)
+ 

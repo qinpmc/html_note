@@ -38,6 +38,17 @@
 ```
 
 
+```
+<base href="http://www.w3school.com.cn/css/" target="_blank" />
+</head>
+
+<body>
+<a href="index.asp">W3School's CSS Tutorial</a>
+</body>
+```
+
+
+
 文档编码
 
 ```
