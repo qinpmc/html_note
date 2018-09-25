@@ -97,6 +97,22 @@
 1、name属性：可取的值为 keywords(关键字)；  description(网站内容的描述)； viewport(移动端的窗口)；author(作者) 等等；
 2、http-equiv属性 ：可取的值包括  content-Type(设定网页字符集) ；cache-control(指定请求和响应遵循的缓存机制)；. expires(网页到期时间)； refresh(自动刷新并指向某页面)
 
+- charset	character      encoding 定义文档的字符编码。	   
+- content	some_text	   定义与 http-equiv 或 name 属性相关的元信息。  
+- http-equiv	 把 content 属性关联到 HTTP 头部。   
+  content-type   
+  expires   
+  refresh   
+  set-cookie   
+
+- name	 把 content 属性关联到一个名称。
+  author
+  description
+  keywords
+  generator
+  revised
+  others
+ 
 ## 乱码问题
 - 英文和数字不会出现乱码，中文可能会出现
 - 给 HTML 的 head 标签里加 <meta charset="utf-8"> 不一定能解决乱码问题
