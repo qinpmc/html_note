@@ -93,7 +93,7 @@
 ```
 
 
-##meta 常见值：
+## meta 常见值：
 1、name属性：可取的值为 keywords(关键字)；  description(网站内容的描述)； viewport(移动端的窗口)；author(作者) 等等；
 2、http-equiv属性 ：可取的值包括  content-Type(设定网页字符集) ；cache-control(指定请求和响应遵循的缓存机制)；. expires(网页到期时间)； refresh(自动刷新并指向某页面)
 
