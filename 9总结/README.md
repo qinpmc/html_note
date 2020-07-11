@@ -34,3 +34,15 @@
      - 更好地支持各种终端，如无障碍阅读和有声小说等
      - 利于团队开发和维护，遵循W3C标准，有利于减小代码差异，提高开发和维护的效率
  
+ 
+ 
+## 网站资源
+
+1. 域名购买  
+https://www.namesilo.com/
+
+2. 设计网站   
+https://dribbble.com/
+
+3. shell命令查询网站    
+https://explainshell.com/

@@ -16,11 +16,25 @@
         You can see other fruits I like <a name="fruits">here</a>.
 ```
 a标签链接的功能
-电话链接 <a href ="tel:+8613812381238">+8613812381238</a>
-Email链接： <a href ="mailto:xidada@china.gov.cn?cc=pengliyuan@china.gov.cn">发送并抄送邮件</a>
-下载链接：<a href = "https://angular.io/resource/images/logos/angular/angular.svg" download> 下载</a>
-返回顶部链接<a href="#"> 返回顶部链接</a>
-文档内部链接： 如上例
+- 电话链接 <a href ="tel:+8613812381238">+8613812381238</a>
+- Email链接： <a href ="mailto:xidada@china.gov.cn?cc=pengliyuan@china.gov.cn">发送并抄送邮件</a>
+- 下载链接：<a href = "https://angular.io/resource/images/logos/angular/angular.svg" download> 下载</a>
+- 返回顶部链接<a href="#"> 返回顶部链接</a>
+- 文档内部链接： 如上例
+
+- a标签与iframe的结合使用：
+
+```
+<iframe src="#" frameborder="0" name="link" width="1200px" height="800px"></iframe>
+<a href="http://qq.com" target="link">qq</a>
+<a href="http://baidu.com" target="link">baidu</a>
+
+```
+
+
+
+
+
 
 ## 文字标记标签
 * em 强调内容，通常斜体
